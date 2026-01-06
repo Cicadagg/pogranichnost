@@ -1,1 +1,0 @@
-:root{--bg: #0e0e11;--fg: #e6e6eb;--muted: #9a9aa5;--accent: #7f8cff;--border: #1e1e26;--font-main: system-ui, -apple-system, BlinkMacSystemFont}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--font-main);line-height:1.6}a{color:var(--fg);text-decoration:none}a:hover{color:var(--accent)}
